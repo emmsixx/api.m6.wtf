@@ -5,4 +5,4 @@ A multi-purpose API powering [NameMC+](https://github.com/m6yo/namemcplus) along
 
 ## Endpoints
 
-### More to come soon
+More to come soon
